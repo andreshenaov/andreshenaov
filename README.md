@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Andres Felipe Henao</h1>
-<h3 align="center">Soy desarrollador junior, cpn enfasis en aplicaciones web</h3>
+<h3 align="center">Soy desarrollador junior, cnn enfasis en aplicaciones web</h3>
 
 - 💬 Ask me about **Html, CSS, Python, ReactJs, JavaScript**
 
